@@ -1,11 +1,11 @@
 // credit to 3kh0
 const songs = [
-  { title: "Frizk & Tanger - tiny windows", src: "music1.mp3" },
-  { title: "Vansire - Metamodernity", src: "music2.mp3" },
-  { title: "Deep Puddle Dynamics - The Scarecrow Speaks", src: "music3.mp3" },
-  { title: "Blonde Redhead - For the Damaged Coda", src: "music4.mp3" },
-  { title: "Ginger Root - Loretta", src: "music5.mp3" },
-  { title: "Olivia Rodrigo - good 4 u", src: "music6.mp3" },
+  { title: "Frizk & Tanger - tiny windows", src: "music/music1.mp3" },
+  { title: "Vansire - Metamodernity", src: "music/music2.mp3" },
+  { title: "Deep Puddle Dynamics - The Scarecrow Speaks", src: "music/music3.mp3" },
+  { title: "Blonde Redhead - For the Damaged Coda", src: "music/music4.mp3" },
+  { title: "Ginger Root - Loretta", src: "music/music5.mp3" },
+  { title: "Olivia Rodrigo - good 4 u", src: "music/music6.mp3" },
   
 
 ];
