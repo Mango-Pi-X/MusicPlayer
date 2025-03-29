@@ -1,3 +1,4 @@
+// credit to 3kh0
 const songs = [
   { title: "Frizk & Tanger - tiny windows", src: "music1.mp3" },
   { title: "Vansire - Metamodernity", src: "music2.mp3" },
